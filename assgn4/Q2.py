@@ -1,4 +1,4 @@
-# Q.2 Questions on Basic NumPy Array:
+# Q.2 Questions on Basic NumPy Array
 # a) Reverse the NumPy array: arr = np.array([1, 2, 3, 6, 4, 5])
 
 import numpy as np
