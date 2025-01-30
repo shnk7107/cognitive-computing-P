@@ -1,5 +1,5 @@
 # Q.3 For the given 2-D array arr=np.array([10, 20, 30], [40, 50, 60], [70, 80, 90]), access
-# elements using row and column indices as follows:
+# elements using row and column indices as follows
 
 import numpy as np
 arr=np.array([[10, 20, 30], [40, 50, 60], [70, 80, 90]])
