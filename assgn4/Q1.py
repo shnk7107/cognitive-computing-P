@@ -1,5 +1,5 @@
 #  Q.1 Write a program to create a NumPy 1D-array with 5 elements and perform basic
-# operations like:
+# operations like
 
 import numpy as np
 
